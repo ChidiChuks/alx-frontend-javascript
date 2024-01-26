@@ -1,0 +1,24 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "0x00-ES6_basic",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChidiChuks/alx-frontend-javascript.git"
+  },
+  "author": "Chidiebere Chukwuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChidiChuks/alx-frontend-javascript/issues"
+  },
+  "homepage": "https://github.com/ChidiChuks/alx-frontend-javascript#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0"
+  }
+}
