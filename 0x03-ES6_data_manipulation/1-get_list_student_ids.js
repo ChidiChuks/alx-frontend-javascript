@@ -7,5 +7,5 @@ export default function getListStudentIds(arrayOfObjects) {
   }
 
   // Use the map function to extract ids from the array of objects
-  return arrayOfObjects.map(student => student.id);
+  return arrayOfObjects.map((student) => student.id);
 }
